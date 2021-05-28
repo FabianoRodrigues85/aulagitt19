@@ -1,2 +1,3 @@
 texto1
-texto2
+bug fix na linha 2
+texto3
